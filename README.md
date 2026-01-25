@@ -1,4 +1,4 @@
-# Blackcoffer NLP Assignment
+# SenticScraper
 
 This project extracts articles from URLs and performs text analysis as per the assignment.
 
